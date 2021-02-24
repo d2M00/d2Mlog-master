@@ -1,2 +1,6 @@
-# d2Mlog-master
-It's a simple discord server log for admin to control the server.
+# d2Mlog Simple Server Discord Log by d2M#0002
+
+**Installation:**
+- Rename d2Mlog-master with d2Mlog
+- Add this to your server.cfg: start d2Mlog
+
