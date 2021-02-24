@@ -1,4 +1,4 @@
-# d2Mlog Simple Server Discord Log by d2M#0002
+# d2Mlog Simple Server Discord Log Admin by d2M#0002
 
 **Installation:**
 - Rename d2Mlog-master with d2Mlog
